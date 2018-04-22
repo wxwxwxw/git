@@ -1,2 +1,2 @@
 git is great!
-git s!
+git g!
